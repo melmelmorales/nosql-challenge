@@ -21,11 +21,11 @@ This project followed a three-part methodology:
 
 ## Which establishments have a hygiene score equal to 20?
 
-Number of rows in the DataFrame: 41
+Number of rows in the DataFrame: 41 (see dataframe in NoSQL_analysis_starter_MM).
 
 ## Which establishments in London have a RatingValue greater than or equal to 4?
 
-Number of documents in the result: 33
+Number of documents in the result: 33 (see dataframe in NoSQL_analysis_starter_MM).
 
 ## What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
